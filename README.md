@@ -8,5 +8,5 @@
   <img src="./svg/programming.svg" alt="Programming" height="120" style="margin:8px"/>
   <img src="./svg/osint.svg" alt="Osint" height="120" style="margin:8px"/>
   <img src="./svg/Terminal.svg" alt="Terminal" height="120" style="margin:8px"/>
-  <img src="./svg/hex.svg" alt="hex" height="120" style="margin:8px"/>
+
 </p>
