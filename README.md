@@ -1,3 +1,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/hex-3030/hex-3030?style=social)](https://github.com/hex-3030/hex-3030/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HEX?style=social)](https://x.com/HEXD__30__30)
-<img alt="Red Team" height="120" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120"><rect rx="12" ry="12" width="420" height="120" fill="%230f172a"/><g transform="translate(18,18)"><circle cx="36" cy="36" r="34" fill="%23ef4444"/><path d="M20 42 L52 30 L44 50 Z" fill="%237f1d1d"/><g transform="translate(80,12)"><text x="0" y="34" font-family="Segoe UI, Roboto, Helvetica" font-size="24" fill="%23e6eef8" font-weight="700">Red Team</text><text x="0" y="60" font-family="Segoe UI, Roboto, Helvetica" font-size="12" fill="%2394a3b8">Adversary Simulation · Purple Team</text></g></g></svg>' />
+<!-- Header logos -->
+<p align="center">
+  <img src="./svg/redteam.svg" alt="Red Team" height="120" style="margin:8px"/>
+  <img src="./svg/pentest.svg" alt="Pentest" height="120" style="margin:8px"/>
+  <img src="./svg/bugbounty.svg" alt="Bug Bounty" height="120" style="margin:8px"/>
+  <img src="./svg/programming.svg" alt="Programming" height="120" style="margin:8px"/>
+</p>
