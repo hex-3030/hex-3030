@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120" role="img" aria-label="Programming logo">
+  <rect rx="12" ry="12" width="420" height="120" fill="#071124"/>
+  <g transform="translate(18,18)">
+    <rect x="0" y="0" width="72" height="72" rx="10" fill="#06b6d4"/>
+    <text x="20" y="44" font-family="monospace" font-size="28" fill="#021423" font-weight="700">{ }</text>
+    <g transform="translate(100,12)">
+      <text x="0" y="34" font-family="Segoe UI, Roboto, Helvetica" font-size="24" fill="#e6f9fb" font-weight="700">Programming</text>
+      <text x="0" y="60" font-family="Segoe UI, Roboto, Helvetica" font-size="12" fill="#8fcfe1">Python · Bash · PowerShell · C</text>
+    </g>
+  </g>
+</svg>
