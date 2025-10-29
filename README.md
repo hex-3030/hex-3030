@@ -1,6 +1,6 @@
-[![Top Langs](https://img.shields.io/github/languages/top/<your-username>/<your-repo>)](https://github.com/hex-3030/Getnp-Checker)
+[![Top Langs](https://img.shields.io/github/languages/top/hex-3030/Getnp-Checker)](https://github.com/hex-3030/Getnp-Checker)
 [![GitHub stars](https://img.shields.io/github/stars/hex-3030/Getnp-Checker?style=social)](https://github.com/hex-3030/Getnp-Checker/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter>?style=social)](https://x.com/HEXD__30__30)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HEX?style=social)](https://x.com/HEXD__30__30)
 [![License](https://img.shields.io/github/license/hex-3030/hex-3030)](LICENSE)
 
 <!-- Header logos -->
