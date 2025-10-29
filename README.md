@@ -7,3 +7,14 @@
   <img src="./svg/bugbounty.svg" alt="Bug Bounty" height="120" style="margin:8px"/>
   <img src="./svg/programming.svg" alt="Programming" height="120" style="margin:8px"/>
 </p>
+
+
+
+
+
+
+## 🛠️ Tools & Tech
+| Pentesting | OSINT | Programming |
+|------------|-------|------------|
+| ![burp](./svg/pentest.svg) Burp Suite | ![shodan](./svg/bugbounty.svg) Shodan | ![python](./svg/programming.svg) Python |
+| ![nmap](./svg/pentest.svg) Nmap | ![maltego](./svg/redteam.svg) Maltego | ![bash](./svg/programming.svg) Bash |
