@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120" role="img" aria-label="Red Team logo">
+  <rect rx="12" ry="12" width="420" height="120" fill="#0f172a"/>
+  <g transform="translate(18,18)">
+    <circle cx="36" cy="36" r="34" fill="#ef4444"/>
+    <path d="M20 42 L52 30 L44 50 Z" fill="#7f1d1d"/>
+    <g transform="translate(80,12)">
+      <text x="0" y="34" font-family="Segoe UI, Roboto, Helvetica" font-size="24" fill="#e6eef8" font-weight="700">Red Team</text>
+      <text x="0" y="60" font-family="Segoe UI, Roboto, Helvetica" font-size="12" fill="#94a3b8">Adversary Simulation · Purple Team</text>
+    </g>
+  </g>
+</svg>
