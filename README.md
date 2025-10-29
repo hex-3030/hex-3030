@@ -6,4 +6,5 @@
   <img src="./svg/pentest.svg" alt="Pentest" height="120" style="margin:8px"/>
   <img src="./svg/bugbounty.svg" alt="Bug Bounty" height="120" style="margin:8px"/>
   <img src="./svg/programming.svg" alt="Programming" height="120" style="margin:8px"/>
+  <img src="./svg/osint.svg" alt="Osint" height="120" style="margin:8px"/>
 </p>
